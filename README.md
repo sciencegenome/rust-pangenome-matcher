@@ -5,7 +5,8 @@
 
  ```
  cargo build
- 
+
+ ```
  ```
  λ gauravsablok rust-pangenome-matcher → λ git main* → ./target/debug/rust-pangenome-matcher -h
  Usage: rust-pangenome-matcher <PAFALIGNMENT1> <PAFALIGNMENT2>
@@ -17,8 +18,6 @@
  Options:
   -h, --help     Print help
   -V, --version  Print version
-
- ```
 
  ```
  - to run the binary
