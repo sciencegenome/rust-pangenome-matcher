@@ -1,7 +1,7 @@
 # rust-pangenome-tools
  - writing all pangenome tools in rust. 
  - This part compares the two pangenome alignment with the same query and a different reference and anchors the query across both. 
- - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+ - please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
  ```
  cargo build
